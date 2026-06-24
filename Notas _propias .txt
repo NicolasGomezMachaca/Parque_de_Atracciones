@@ -1,0 +1,2 @@
+llegue hasta aca con 2 horitas de avance agrege una nueva pagina de Entradas que tendran los boletos, me faltaria las paginas para la compra de los objetos
+con los datos de los usuarios, despues añadi otro archivo html donde estara el diseño de las posiciones de las filas
